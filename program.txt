@@ -14,4 +14,4 @@ public static void method(){
 public static void fun(){
 
 	print ("ÄãºÃ£¡");
-}
+}ghhjgj
