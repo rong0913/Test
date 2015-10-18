@@ -1,4 +1,12 @@
 public static void main(){
 
-	print("hello word!")
+	print("hello word!");
 }
+
+public static void method(){
+	print("ÄãºÃ!");
+}
+
+
+
+ÄãºÃ£¡
