@@ -10,3 +10,8 @@ public static void method(){
 
 
 ÄãºÃ£¡11213213
+
+public static void fun(){
+
+	print ("ÄãºÃ£¡");
+}
